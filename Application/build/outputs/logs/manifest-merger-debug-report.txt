@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:17:1-46:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\473a3d7749efcaf9a5649b2c4eaa886b\support-v13-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\b9d2c194a11ee43e41855fcf48cfc64a\support-v4-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\e0a1e3c0feb651000424f1701c78cae5\cardview-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\cd2b4067ea72bbdbd2c650afdd3620e4\appcompat-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\c6f445f51abac742d1b1fae0f768dd4c\support-media-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\9d5fe626e6fa652dfb062e5cf1dd6f55\support-fragment-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\7f226a93afbdc9857ae082be86c6aee0\support-core-utils-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\35899fa4f7ca98ede9249341ad0f5c34\animated-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\50775d4d48094185a304c7f51044eefe\support-core-ui-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\bced0514d3effefd6b1e18ba66479025\support-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\8919d299bce43c1b720277d08d89eb62\support-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\5b6bd88c3593d3099731dca39b770a09\runtime-1.0.3\AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:19:5-52
+	xmlns:tools
+		ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:18:5-51
+	xmlns:android
+		ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:21:5-44:19
+	android:supportsRtl
+		ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:25:13-39
+	tools:ignore
+		ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:26:13-64
+	android:icon
+		ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:23:13-47
+	android:allowBackup
+		ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:22:13-39
+	android:theme
+		ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:24:13-44
+activity#com.example.android.confirmcredential.MainActivity
+ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:27:9-35:20
+	android:label
+		ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:29:17-46
+	android:name
+		ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:28:17-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:33:27-74
+activity#com.example.android.confirmcredential.ItemDetail
+ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:36:9-39:20
+	android:label
+		ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:36:19-45
+activity#com.example.android.confirmcredential.ItemList
+ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:41:13-35
+	android:name
+		ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml:40:19-43
+uses-sdk
+INJECTED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\473a3d7749efcaf9a5649b2c4eaa886b\support-v13-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\473a3d7749efcaf9a5649b2c4eaa886b\support-v13-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\b9d2c194a11ee43e41855fcf48cfc64a\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\b9d2c194a11ee43e41855fcf48cfc64a\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\e0a1e3c0feb651000424f1701c78cae5\cardview-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\e0a1e3c0feb651000424f1701c78cae5\cardview-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\cd2b4067ea72bbdbd2c650afdd3620e4\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\cd2b4067ea72bbdbd2c650afdd3620e4\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\c6f445f51abac742d1b1fae0f768dd4c\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\c6f445f51abac742d1b1fae0f768dd4c\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\9d5fe626e6fa652dfb062e5cf1dd6f55\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\9d5fe626e6fa652dfb062e5cf1dd6f55\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\7f226a93afbdc9857ae082be86c6aee0\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\7f226a93afbdc9857ae082be86c6aee0\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\35899fa4f7ca98ede9249341ad0f5c34\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\35899fa4f7ca98ede9249341ad0f5c34\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\50775d4d48094185a304c7f51044eefe\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\50775d4d48094185a304c7f51044eefe\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\bced0514d3effefd6b1e18ba66479025\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\bced0514d3effefd6b1e18ba66479025\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\8919d299bce43c1b720277d08d89eb62\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\8919d299bce43c1b720277d08d89eb62\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\5b6bd88c3593d3099731dca39b770a09\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\you23\.gradle\caches\transforms-2\files-2.1\5b6bd88c3593d3099731dca39b770a09\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\you23\Desktop\android-ConfirmCredential-master\Application\src\main\AndroidManifest.xml
